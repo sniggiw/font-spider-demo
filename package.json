@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "font-spider": "^1.3.5",
+    "fonteditor-core": "^2.1.8"
+  }
+}
