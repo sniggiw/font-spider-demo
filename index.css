@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "jetBrainsMonoBold";
+    font-weight: normal;
+    font-style: normal;
+    src: url("./originFont/jetBrainsMono/JetBrainsMono-Bold.ttf");
+}
+
+/* 使用字体 */
+.jetBrainsMonoBold {
+    font-family: "jetBrainsMonoBold";
+}
