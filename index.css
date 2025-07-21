@@ -1,11 +1,11 @@
 @font-face {
-    font-family: "jetBrainsMonoBold";
+    font-family: "mapleMonoBold";
     font-weight: normal;
     font-style: normal;
-    src: url("./originFont/jetBrainsMono/JetBrainsMono-Bold.ttf");
+    src: url("./originFont/mapleMono/MapleMono-NF-CN-Bold.ttf");
 }
 
 /* 使用字体 */
-.jetBrainsMonoBold {
-    font-family: "jetBrainsMonoBold";
+.mapleMonoBold {
+    font-family: "mapleMonoBold";
 }
